@@ -1,0 +1,128 @@
+body {
+	background:#edeff2;
+	font-family: helvetica; 
+	margin: 0;
+	
+
+}
+
+section.intro{
+ 	background-color: #222222;
+ }
+
+section.students{
+ 	background-color: white;
+ 	padding-right: 50px;
+ 	padding-left: 50px;
+
+ }
+
+nav.navbar{
+ 	padding: 20px;
+}
+
+div.container{
+ 	width: 100%;
+ }
+
+div.intro {
+	text-transform: uppercase;
+	color: white;
+}
+
+div.intro-heading {
+	font-size: 30px;
+	display: inline;
+}
+
+div.words-in-link{
+	display: inline;
+	float: right;
+	margin-top: 10px;
+}
+
+div.sub-heading{
+	text-align: center;
+	color: #222222;
+	text-transform: uppercase;
+	font-size: 40px;
+	padding: 10px;
+	padding-bottom: 60px;
+	padding-top: 20px;
+}
+
+
+
+div.centered-vid{
+    width: 560px; 
+    height: 315px; 
+
+    top: 0; right: 0;
+    bottom: 0; left: 0;
+    margin: auto; 
+
+    padding-bottom: 50px;
+    
+}
+
+a.intro-heading-link{
+	text-decoration: none;
+	color: white;
+}
+
+a.menu-options{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	margin: 30px;
+}
+
+a.menu-options:hover{
+	opacity: 0.5;
+
+}
+
+img.circle{
+	background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 250%;
+}
+
+tr.two-members {
+	width: 100%;
+}
+
+
+.aboutSideInfo{
+	margin: 5%
+}
+
+.mySlides {
+	display:none;
+	margin: auto;
+}
+
+footer{
+	background-color: white;
+}
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
